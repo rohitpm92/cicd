@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label>Data Import</label>
-    <motif>Custom19: Wrench</motif>
-    <page>DreamHouseSampleData</page>
+    <customObject>true</customObject>
+    <motif>Custom16: Bank</motif>
 </CustomTab>

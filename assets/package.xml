@@ -28,9 +28,7 @@
     <name>CustomObject</name>
   </types>
   <types>
-    <members>Broker__c</members>
-    <members>Property__c</members>
-    <members>Sample_Data_Import</members>
+    <members>*</members>
     <name>CustomTab</name>
   </types>
   <types>
@@ -51,5 +49,5 @@
     <members>DreamHouse</members>
     <name>PermissionSet</name>
   </types>
-  <version>44.0</version>
+  <version>46.0</version>
 </Package>
